@@ -1,6 +1,7 @@
 # Countries app
 **graphql, bloc, freezed, injectable, clean architecture**
 
-![alt text](https://github.com/moohammed-gaber/flutter-clean-architecture-graphql/blob/master/github_readme/countries_remote_data_source_dart.png?raw=true)
+![alt text](https://github.com/moohammed-gaber/flutter-clean-architecture-graphql/blob/main/github_readme/countries_remote_data_source_dart.png?raw=true)
+![alt text](https://github.com/moohammed-gaber/flutter-clean-architecture-graphql/blob/main/github_readme/screenshot.png?raw=true)
 
 
